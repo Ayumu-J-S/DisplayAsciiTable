@@ -51,4 +51,6 @@ __*Excutable directory has the excutalbe file and a text file that is required b
 ### To Compile
 The build.sh file has the script to compile required files to make the excutable files.
 
+`./build.sh`
+
 
