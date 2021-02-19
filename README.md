@@ -47,6 +47,8 @@ __Your terminal screen is the best for this program with the resolution of  79 x
 __*Note Compiler gcc 9.3.0 or above is requred, if you would like to comile on your end.__ <br>
 __*Excutable directory has the excutalbe file and a text file that is required by the program. Note that the excutable file is only compatible with linux.__
 
+### Instructor Supplied Package
+You can see the description of the package at [this link].(https://cs.smu.ca/~porter/csc/common_341_342/code/utilities2021/utilities_docs/)
 
 ### To Compile
 The build.sh file has the script to compile required files to make the excutable files.
