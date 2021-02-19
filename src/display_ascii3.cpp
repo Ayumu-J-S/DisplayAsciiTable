@@ -74,9 +74,8 @@ int main()
     DisplayOpeningScreen
     (
         "Ayumu Saito",
-        "\nSubmission 03"
-        "\nDisplaying Printable ASCII Characters and Their Codes, Part 3 ",
-        11, 12
+        "\nDisplaying Printable ASCII Characters and Their Codes ",
+        12, 12
     );
 
     Menu menu;
