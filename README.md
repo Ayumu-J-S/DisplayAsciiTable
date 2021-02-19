@@ -48,5 +48,7 @@ __*Note Compiler gcc 9.3.0 or above is requred, if you would like to comile on y
 __*Excutable directory has the excutalbe file and a text file that is required by the program. Note that the excutable file is only compatible with linux.__
 
 
+### To Compile
+The build.sh file has the script to compile required files to make the excutable files.
 
 
