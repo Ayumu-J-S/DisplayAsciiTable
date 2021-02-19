@@ -48,7 +48,7 @@ __*Note Compiler gcc 9.3.0 or above is requred, if you would like to comile on y
 __*Excutable directory has the excutalbe file and a text file that is required by the program. Note that the excutable file is only compatible with linux.__
 
 ### Instructor Supplied Package
-You can see the description of the package at [this link].(https://cs.smu.ca/~porter/csc/common_341_342/code/utilities2021/utilities_docs/)
+You can see the description of the package at [this link](https://cs.smu.ca/~porter/csc/common_341_342/code/utilities2021/utilities_docs/).
 [link to Google!](http://google.com)
 
 ### To Compile
